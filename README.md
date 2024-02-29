@@ -6,6 +6,6 @@ testing6
 
 <figure>
   <figcaption>Steven:</figcaption>
-  <audio controls src=audio/Steven.wav">
+  <audio controls src=/main/audio/Steven.wav">
   </audio>
 </figure>
