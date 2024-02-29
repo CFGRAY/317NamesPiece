@@ -1,2 +1,2 @@
 # Nomenclature
-<embed src="path/to/piano.mp3" type="audio/mpeg" />
+<embed src="piano.mp3" type="audio/mp3" />
